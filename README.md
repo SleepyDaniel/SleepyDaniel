@@ -3,7 +3,7 @@
 <font color="#2AA1B3"><b>                 `ooo/</b></font>                   <font color="#2AA1B3"><b>OS</b></font>: Arch Linux x86_64 
 <font color="#2AA1B3"><b>                `+oooo:</b></font>                  <font color="#2AA1B3"><b>Host</b></font>: AX370M-DS3H 
 <font color="#2AA1B3"><b>               `+oooooo:</b></font>                 <font color="#2AA1B3"><b>Kernel</b></font>: 5.16.1-zen1-1-zen 
-<font color="#2AA1B3"><b>               -+oooooo+:</b></font>                <font color="#2AA1B3"><b>Packages</b></font>: 959 (pacman) 
+<font color="#2AA1B3"><b>               -+oooooo+:</b></font>                <font color="#2AA1B3"><b>Packages</b></font>: 847 (pacman) 
 <font color="#2AA1B3"><b>             `/:-:++oooo+:</b></font>               <font color="#2AA1B3"><b>Shell</b></font>: bash 5.1.16 
 <font color="#2AA1B3"><b>            `/++++/+++++++:</b></font>              <font color="#2AA1B3"><b>Resolution</b></font>: 1920x1080, 1920x1080, 1920x1080 
 <font color="#2AA1B3"><b>           `/++++++++++++++:</b></font>             <font color="#2AA1B3"><b>DE</b></font>: GNOME 41.3 
