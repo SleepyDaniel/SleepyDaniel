@@ -21,6 +21,3 @@
                                          <span style="background-color:#5E5C64"><font color="#5E5C64">   </font></span><span style="background-color:#F66151"><font color="#F66151">   </font></span><span style="background-color:#33DA7A"><font color="#33DA7A">   </font></span><span style="background-color:#E9AD0C"><font color="#E9AD0C">   </font></span><span style="background-color:#2A7BDE"><font color="#2A7BDE">   </font></span><span style="background-color:#C061CB"><font color="#C061CB">   </font></span><span style="background-color:#33C7DE"><font color="#33C7DE">   </font></span><span style="background-color:#FFFFFF"><font color="#FFFFFF">   </font></span>
 </pre>
 
-<img src="https://raw.githubusercontent.com/SleepyDaniel/SleepyDaniel/output/snake.svg" alt="Snake animation" />
-
-###
