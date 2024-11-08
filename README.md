@@ -3,8 +3,7 @@
 Welcome to my profile, im into building web apps and checking out new tech. Always keen to learn and get involved in fun projects, lets make something awesome.
 
 <br><br>
-
-                                                                                                                          
+                                                                                                                      
 ## Technologies & Tools
 
 | **Web Development**                                                                                                                                                                           | **Back-End & Databases**                                                                                                                                                              | **DevOps & Tools**                                                                                                                                                                | **Programming**                                                                                                                                                          | **IDEs & Design Tools**                                                                                                                                                                |
